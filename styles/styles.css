@@ -71,6 +71,10 @@ body{
     color: var(--cinza-secundario);
 }
 
+.container__descricao{
+    padding: 2em;
+}
+
 .secundario{
     align-items: center;
     margin: 0 10em;
@@ -89,4 +93,9 @@ body{
 
 .descricao__texto{
     color: var(--cinza-secundario);
+}
+
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
 }
